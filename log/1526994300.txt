@@ -1,0 +1,1 @@
+Waiting customer to finish transaction order_id: 1526994300 using bri_epay

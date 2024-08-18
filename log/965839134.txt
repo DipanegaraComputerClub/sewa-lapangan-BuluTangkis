@@ -1,0 +1,1 @@
+Transaction order_id: 965839134 successfully transfered using bank_transfer

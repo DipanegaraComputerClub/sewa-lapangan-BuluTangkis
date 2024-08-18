@@ -1,0 +1,1 @@
+Waiting customer to finish transaction order_id: 202257015 using bank_transfer
